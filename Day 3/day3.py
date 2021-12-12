@@ -13,10 +13,11 @@ def getEpsilonRate(gamma):
 
 # PART 2 FUNCTIONS
 
-def mostCommon(inputList):
-    values = [list(x) for x in zip(*inputList)]
-    
-def leastCommon():
+#def mostCommon(inputList):
+#    for i in range(len(inputList)):
+#        inputList[i] = "".join([x for x in lines[i]])
+#    
+#def leastCommon():
 
 
 def main():
